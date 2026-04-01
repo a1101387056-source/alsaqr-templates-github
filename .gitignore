@@ -1,3 +1,8 @@
+# Temporary and lock files
+*.tmp
+~$*.docx
+.DS_Store
+
 # Prerequisites
 *.d
 
